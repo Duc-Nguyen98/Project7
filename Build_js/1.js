@@ -8,9 +8,9 @@ document.addEventListener("DOMContentLoaded",function(){
 			slideSpeed : 2000,
 			smartSpeed:2500,
 			nav: true,
-			autoplay: true,
-			autoplayTimeout:5000,
-			responsiveRefreshRate : 200,
+			// autoplay: true,
+			// autoplayTimeout:5000,
+			// responsiveRefreshRate : 200,
 			rewind:true,
 			responsive:{
 				0:{

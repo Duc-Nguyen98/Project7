@@ -14,6 +14,7 @@
 			height: 100%;
 		}
 
+			
 		.banner-container{
 			width: 100%;
 			height: 100%;
@@ -31,7 +32,7 @@
 			width: 100%;
 			position: relative;
 		}
-	/*	.transparent-background:before {
+		.transparent-background:before {
 			content: "";
 			background-image: url(./images/slide-gradient.png);
 			background-size: cover;
@@ -44,7 +45,7 @@
 			right: 0;
 			position: absolute;
 			z-index: 2;
-			}*/
+			}
 
 			.slide{
 				background-size: cover;
